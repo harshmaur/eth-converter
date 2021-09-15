@@ -1,33 +1,26 @@
-# Timestamp Converter
+# Eth Converter
 
 ## Description
 
-Convert epoch to human-readable date.
-This extension was inspired by https://www.epochconverter.com/
+No more counting zeros. Convert Wei to Eth and Gwei by hovering wei and save the time spent using a converter.
+This extension was inspired by https://eth-converter.com/ and https://github.com/Stalinbalraj/timestamp-converter
 
 ## Features
 
-Hover on the epoch time, it will be converted to human readable format
-
-Currently this extension is capable to do the following conversions, where the epoch time can be formated in seconds, milliseconds or nanoseconds, and custom is a localized format.
-
-Epoch times can be converted to a human readable timestamp.
+Hover on Wei, it will be converted to Eth and Gwei
 
 For example :
 
-![hover on the timestamp](images/example.JPG)
+![hover on Wei](images/example.png)
 
+## Feature Requests / Report Issue
 
-
+Open a new issue if you want to request a new feature or you see an issue with conversion.
 
 ## Release Notes
 
-
 ### 1.0.0
 
-Initial release of timestamp converter
-
-
-
+Initial release of eth converter
 
 **Enjoy!**
