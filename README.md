@@ -19,7 +19,7 @@ Open a new issue if you want to request a new feature or you see an issue with c
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.2
 
 Initial release of eth converter
 
